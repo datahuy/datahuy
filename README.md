@@ -1,6 +1,4 @@
 ### Hi ae 👋 👋 👋
-My journey:  huydata.com
-Getting numbers is easy, getting numbers you can trust is hard.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.linkedin.com/in/nguyen-tien-huy-8b0934212/) 
